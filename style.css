@@ -1,0 +1,48 @@
+h1 {
+    font-size: 80px;
+    text-align: center;
+    color: #ff00ff;
+    font-weight: 950;
+}
+
+.cart-contain {
+    background-color: rgba(197, 155, 236, 0.616);
+    margin: 40px;
+    padding: 10px;
+}
+
+.cart-contain>div {
+    background-color: antiquewhite;
+    margin: 20px;
+    padding: 20px;
+}
+
+.phone-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.phone-detail {
+    display: flex;
+    justify-content: space-between;
+}
+
+.phone-detail>div {
+    margin: 20px;
+}
+
+.phone-detail>div>p {
+    padding: 40px 0 0 20px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.phone-price {
+    display: flex;
+    justify-content: space-between;
+}
+
+.phone-price>div {
+    margin: 20px;
+    padding: 65px 0 0 0;
+}
