@@ -72,3 +72,30 @@ h1 {
 .close-btn {
     padding: 55px 0 0 0;
 }
+
+/* total price detail css */
+
+.total-price-calculation {
+    display: flex;
+    justify-content: space-between;
+}
+
+.total-price-calculation>div {
+    padding: 0 40px;
+}
+
+.total-price-list-name {
+    font-size: 30px;
+}
+
+.total-price-detail {
+    font-size: 30px;
+}
+
+.check-out-btn {
+    color: #ffffff;
+    background-color: #850a52;
+    padding: 10px 20px;
+   
+    margin: 20px;
+}
